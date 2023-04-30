@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnkushBanerjeee.
+- 👋 Hi, I’m @AnkushBanerjee.
 - 👀 I’m interested in ... web Devolopment & problem solving.
 - 🌱 I’m currently learning ... Btech in CSE. 
 - 💞️ I’m looking to collaborate on ... Web Devolopment 
